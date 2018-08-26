@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connect">Connect</string>
+    <string name="positive">Yes</string>
+    <string name="negative">No</string>
+    <string name="touchscreen">Touchscreen</string>
+    <string name="touchpad">Touchpad</string>
+    <string name="failed">Failed to connect.</string>
+    <string name="alert">Alert</string>
+    <string name="message">Are you sure to remove %s?</string>
+</resources>

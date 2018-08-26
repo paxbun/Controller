@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connect">접속</string>
+    <string name="positive">예</string>
+    <string name="negative">아니오</string>
+    <string name="touchscreen">터치스크린</string>
+    <string name="touchpad">터치패드</string>
+    <string name="failed">접속할 수 없습니다.</string>
+    <string name="alert">경고</string>
+    <string name="message">%s를 지울까요?</string>
+</resources>

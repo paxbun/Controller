@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connect">接続</string>
+    <string name="positive">はい</string>
+    <string name="negative">いいえ</string>
+    <string name="touchscreen">タッチスクリーン</string>
+    <string name="touchpad">タッチパッド</string>
+    <string name="failed">接続できません。</string>
+    <string name="alert">警告</string>
+    <string name="message">%sを除外しますか？</string>
+</resources>
